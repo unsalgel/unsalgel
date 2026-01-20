@@ -7,8 +7,6 @@
 💡 "Bugün öğrendiğin bir şey, yarın büyük bir değişime ilham olabilir" diyerek her gün kendimi biraz daha ileriye taşımak için çalışıyorum.
 
 
-
-
 ## Kullandığım Teknolojiler
 
 - **Programlama Dilleri:**  
@@ -20,6 +18,11 @@
   ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) 
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark)
+
 
 - **Veritabanları:**  
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) 
